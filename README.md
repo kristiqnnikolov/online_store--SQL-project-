@@ -1,10 +1,10 @@
-Online Store SQL Project
-Project Description
+# Online Store SQL Project
+## Project Description
 This project demonstrates the use of SQL and Python to analyze and manage data from an online store. 
 The dataset contains information about transactions, customers, items, and discounts.
 The project includes SQL queries to calculate total revenue, sales by state, net revenue after discounts, and other key business metrics.
 
-The following files and scripts are included in this project:
+### The following files and scripts are included in this project:
 
 1_creating_table.sql: SQL script to create the transactions table and define its constraints.
 2_insert_data.py: Python script to insert data from the CSV file into a PostgreSQL database.
@@ -12,8 +12,7 @@ The following files and scripts are included in this project:
 online_data.csv: The dataset containing all transaction details.
 
 
-Getting Started
-Prerequisites
+### Getting Started
 Ensure the following software and tools are installed on your system:
 
 Python 3.x
